@@ -1,4 +1,4 @@
-Data Cleaning and Analysis Project with Power Query
+Data Cleaning with Power Query
 ---------------------------------------------------
 
 ### Project Overview
